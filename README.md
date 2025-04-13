@@ -1,7 +1,3 @@
-###### Copyright © 2025 Code Jackal | Original Course Material by Chris Blakely
-
----
-
 
 # Patient Service
 
